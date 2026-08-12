@@ -1,0 +1,11 @@
+streamlit>=1.35
+torch>=2.2
+transformers>=4.40
+datasets>=2.19
+evaluate>=0.4
+scikit-learn>=1.4
+accelerate>=0.30
+Pillow>=10.0
+numpy>=1.26
+opencv-python-headless>=4.9
+scipy>=1.11
